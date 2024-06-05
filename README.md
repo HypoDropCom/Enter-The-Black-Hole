@@ -1,2 +1,13 @@
 # Enter-The-Black-Hole
-Dive into the void and discover a kaleidoscope of cosmic wonders, from shimmering galaxies to pulsating nebulae, all rendered in stunning detail and infused with a sense of mystique. 'Enter the Black Hole' is a gateway to a universe of endless inspiration and wonder.
+
+Mint Enter-The-Black-Hole on any superchain you want.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat ignition deploy ./ignition/modules/Lock.ts
+```
